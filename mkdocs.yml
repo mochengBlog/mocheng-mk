@@ -274,10 +274,17 @@ nav: # 导航栏
   - AI相关:
       - aigc: aigc/index.md
       - aigc:
-        - 中转站收集: aigc/draw/中转站.md
+          - 中转站收集: aigc/draw/中转站.md
       - chat:
           - 中转站收集: aigc/chat/中转站.md
       - prompt:
           - 日常角色提示词: aigc/prompt/日常角色提示词.md
           - 群聊总结提示词: aigc/prompt/群聊总结提示词.md
+
+  - weekly:
+      - weekly: docs/weekly/index.md
+      - 周刊:
+          - 2024-8-19: docs/weekly/2024-8-19.md
+          - 2024-8-26: docs/weekly/2024-8-26.md
+
 
