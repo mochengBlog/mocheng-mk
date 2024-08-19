@@ -36,122 +36,42 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mochengBlog.github.io/mocheng-coding/Algorithm/</loc>
+         <loc>https://mochengBlog.github.io/mocheng-coding/aigc/</loc>
          <lastmod>2024-08-19</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mochengBlog.github.io/mocheng-coding/Algorithm/search/</loc>
+         <loc>https://mochengBlog.github.io/mocheng-coding/aigc/chat/</loc>
          <lastmod>2024-08-19</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mochengBlog.github.io/mocheng-coding/Algorithm/search/binary_search/</loc>
+         <loc>https://mochengBlog.github.io/mocheng-coding/aigc/chat/%E4%B8%AD%E8%BD%AC%E7%AB%99/</loc>
          <lastmod>2024-08-19</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mochengBlog.github.io/mocheng-coding/Algorithm/search/block_search/</loc>
+         <loc>https://mochengBlog.github.io/mocheng-coding/aigc/draw/</loc>
          <lastmod>2024-08-19</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mochengBlog.github.io/mocheng-coding/Algorithm/search/hash_search/</loc>
+         <loc>https://mochengBlog.github.io/mocheng-coding/aigc/draw/%E4%B8%AD%E8%BD%AC%E7%AB%99/</loc>
          <lastmod>2024-08-19</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mochengBlog.github.io/mocheng-coding/Algorithm/search/seq_search/</loc>
+         <loc>https://mochengBlog.github.io/mocheng-coding/java/</loc>
          <lastmod>2024-08-19</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mochengBlog.github.io/mocheng-coding/Algorithm/sort/</loc>
+         <loc>https://mochengBlog.github.io/mocheng-coding/java/Q%26A/jd%E9%9D%A2%E8%AF%95%E9%A2%98/</loc>
          <lastmod>2024-08-19</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mochengBlog.github.io/mocheng-coding/Algorithm/sort/binary_insertion_sort/</loc>
-         <lastmod>2024-08-19</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://mochengBlog.github.io/mocheng-coding/Algorithm/sort/bubble_sort/</loc>
-         <lastmod>2024-08-19</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://mochengBlog.github.io/mocheng-coding/Algorithm/sort/bucket_sort/</loc>
-         <lastmod>2024-08-19</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://mochengBlog.github.io/mocheng-coding/Algorithm/sort/counting_sort/</loc>
-         <lastmod>2024-08-19</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://mochengBlog.github.io/mocheng-coding/Algorithm/sort/heap_sort/</loc>
-         <lastmod>2024-08-19</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://mochengBlog.github.io/mocheng-coding/Algorithm/sort/improved_bubble_sort/</loc>
-         <lastmod>2024-08-19</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://mochengBlog.github.io/mocheng-coding/Algorithm/sort/improved_quick_sort/</loc>
-         <lastmod>2024-08-19</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://mochengBlog.github.io/mocheng-coding/Algorithm/sort/merge_sort/</loc>
-         <lastmod>2024-08-19</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://mochengBlog.github.io/mocheng-coding/Algorithm/sort/pdq_sort/</loc>
-         <lastmod>2024-08-19</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://mochengBlog.github.io/mocheng-coding/Algorithm/sort/quick_sort/</loc>
-         <lastmod>2024-08-19</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://mochengBlog.github.io/mocheng-coding/Algorithm/sort/radix_sort/</loc>
-         <lastmod>2024-08-19</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://mochengBlog.github.io/mocheng-coding/Algorithm/sort/random_quick_sort/</loc>
-         <lastmod>2024-08-19</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://mochengBlog.github.io/mocheng-coding/Algorithm/sort/shell_sort/</loc>
-         <lastmod>2024-08-19</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://mochengBlog.github.io/mocheng-coding/Algorithm/sort/straight_insertion_sort/</loc>
-         <lastmod>2024-08-19</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://mochengBlog.github.io/mocheng-coding/Algorithm/sort/straight_selection_sort/</loc>
-         <lastmod>2024-08-19</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://mochengBlog.github.io/mocheng-coding/Algorithm/sort/tim_sort/</loc>
-         <lastmod>2024-08-19</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://mochengBlog.github.io/mocheng-coding/Algorithm/sort/tournament_sort/</loc>
+         <loc>https://mochengBlog.github.io/mocheng-coding/java/%E5%9C%BA%E6%99%AF%E7%9C%9F%E9%A2%98/</loc>
          <lastmod>2024-08-19</lastmod>
          <changefreq>daily</changefreq>
     </url>
