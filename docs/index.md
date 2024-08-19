@@ -5,7 +5,7 @@ statistics: True
 <h1 align="center">莫城</h1>
 
 <p align="center">
-<img src="logo.png" alt="logo"  width="200" height="200" />
+<img src="./logo.png" alt="logo"  width="200" height="200" />
 <br/>
 云路问途
 <br/>
@@ -13,7 +13,6 @@ Better late than never !
 </p>
 
 <p align="center">
-
 <a href="https://github.com/mochengBlog/mocheng-coding/watchers">
 <img alt="Watchs" src="https://img.shields.io/github/watchers/mochengBlog/mocheng-coding?label=Watchs&logo=github&style=flat" title="关注人数" />
 </a>
