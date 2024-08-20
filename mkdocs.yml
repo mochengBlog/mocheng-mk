@@ -304,7 +304,8 @@ nav: # 导航栏
   - web开发知识点:
       - web开发思维导图: web/index.md
       - 数据库:
-        - mysql: web/db/mysql.md
+        - mysql-基础八股: web/db/mysql-1基础八股.md
+        - mysql-进阶八股: web/db/mysql-2进阶八股.md
         - redis: web/db/redis.md
         - mongodb: web/db/mongodb.md
         - clickhouse: web/db/clickhouse.md
@@ -322,6 +323,9 @@ nav: # 导航栏
 
   - 朝花夕拾:
       - 数风流人物还看今朝: weekly/index.md
+      - 奇技淫巧:
+          - 文档下载: weekly/utils/doc.md
+          - 2024-8-26: weekly/weekly/2024-8-26.md
       - 周刊:
           - 2024-8-19: weekly/weekly/2024-8-19.md
           - 2024-8-26: weekly/weekly/2024-8-26.md
