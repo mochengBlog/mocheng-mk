@@ -41,12 +41,12 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mochengBlog.github.io/mocheng-coding/aigc/aent/N8N/</loc>
+         <loc>https://mochengBlog.github.io/mocheng-coding/aigc/agent/N8N/</loc>
          <lastmod>2024-08-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mochengBlog.github.io/mocheng-coding/aigc/aent/dify/</loc>
+         <loc>https://mochengBlog.github.io/mocheng-coding/aigc/agent/dify/</loc>
          <lastmod>2024-08-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -147,6 +147,11 @@
     </url>
     <url>
          <loc>https://mochengBlog.github.io/mocheng-coding/weekly/idea/idea/</loc>
+         <lastmod>2024-08-21</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://mochengBlog.github.io/mocheng-coding/weekly/idea/%E5%8F%A3%E8%A2%8B%E5%8A%A9%E6%89%8B/</loc>
          <lastmod>2024-08-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
