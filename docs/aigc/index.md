@@ -1,1 +1,1 @@
-aigc index
+AI时代
