@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "a4ddec7f06480d29",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab72797b58df8976",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d0bc8482597c5202",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/aigc/prompt/日常角色提示词.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9c04df67bab8983c",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb80f13ea95a984a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db1611642f35d972",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e0e8acb07248eb52",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dbdce3737ec46f69",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4e60ff947a1272b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "e4ae4910d5d1f3a5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "edb28954811ec3ea",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "docs/aigc/prompt/日常角色提示词.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b56413d0ec6b2b0d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "docs/aigc/prompt/日常角色提示词.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "220364ae7c873658",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6ad1ae9d02b535d3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "docs/aigc/prompt/日常角色提示词.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "db1611642f35d972",
+  "lastOpenFiles": [
+    "docs/web/db/mysql~.md",
+    "docs/web/index.md",
+    "docs/web/java",
+    "docs/web/db/向量数据库.md",
+    "docs/web/db/clickhouse.md",
+    "docs/web/db/mongodb.md",
+    "docs/web/db/redis.md",
+    "docs/web/db/mysql.md",
+    "docs/web/db",
+    "docs/web/Q&A",
+    "docs/web",
+    "docs/java/Q&A/6-高频问题-java基础.md",
+    "docs/java/Q&A/5-高频问题-设计模式.md",
+    "docs/java/Q&A/4-高频问题-设计模式.md",
+    "docs/java/Q&A/4-高频问题-kafka.md",
+    "docs/java/Q&A/3-高频问题-redis.md",
+    "docs/java/Q&A/2-高频问题-数据库.md",
+    "docs/java/Q&A/1-高频问题-线程池~.md",
+    "docs/java/Q&A/1-高频问题-线程池.md",
+    "docs/java/Q&A/开放性问题~.md",
+    "docs/java/Q&A/开放性问题.md",
+    "未命名",
+    "docs/index.md",
+    "docs/About.md",
+    "README.md"
+  ]
+}
