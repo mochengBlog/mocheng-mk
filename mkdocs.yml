@@ -329,6 +329,7 @@ nav: # 导航栏
       - 数风流人物还看今朝: weekly/index.md
       - 亿点idea儿:
           - 第二大脑: weekly/idea/idea.md
+          - 口袋助手: weekly/idea/口袋助手.md
       - 奇技淫巧:
           - 文档下载: weekly/utils/doc.md
           - 2024-8-26: weekly/weekly/2024-8-26.md
