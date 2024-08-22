@@ -320,9 +320,15 @@ nav: # 导航栏
       - prompt:
           - 日常角色提示词: aigc/prompt/日常角色提示词.md
           - 群聊总结提示词: aigc/prompt/群聊总结提示词.md
+      - 低代码平台:
+          -dify: aigc/agent/dify.md
+          -N8N: aigc/agent/N8N.md
 
-  - 朝花夕拾:
+
+  - 潮海拾遗:
       - 数风流人物还看今朝: weekly/index.md
+      - 亿点idea儿:
+          - 第二大脑: weekly/idea/idea.md
       - 奇技淫巧:
           - 文档下载: weekly/utils/doc.md
           - 2024-8-26: weekly/weekly/2024-8-26.md
