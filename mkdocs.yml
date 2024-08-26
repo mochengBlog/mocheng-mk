@@ -1,14 +1,14 @@
 site_name: mocheng # 站点名称
-site_url: https://mochengBlog.github.io/mocheng-coding/ # 站点链接 https://github.com/mochengBlog/mocheng-coding.git
-repo_url: https://github.com/mochengBlog/mocheng-coding # 仓库地址
-repo_name: mochengBlog/mocheng-coding # 仓库名称
+site_url: https://mochengBlog.github.io/mocheng-mk/ # 站点链接 https://github.com/mochengBlog/mocheng-coding.git
+repo_url: https://github.com/mochengBlog/mocheng-mk # 仓库地址
+repo_name: mochengBlog/mocheng-mk # 仓库名称
 edit_uri: edit/main/docs/ # 编辑地址（页面会出现编辑按钮）
 site_description: Everything about the mocheng # 站点描述
 site_author: mocheng # 站点作者
 copyright: Copyright &copy; 2024 mocheng # 版权信息（会出现在左下角）
 remote_branch: gh-pages # GitHub Pages 远程分支名称（默认值）
 remote_name: origin # 远程名称（默认值）
-docs_dir: docs # 文档目录（默认值）
+docs_dir: 'docs' # 文档目录（默认值）
 site_dir: site # 网站目录（默认值）
 dev_addr: 127.0.0.1:8000 # 预览模式地址（默认值）
 use_directory_urls: true # URL 使用目录名还是文件名（默认值）
@@ -242,6 +242,7 @@ extra_css:
 
 
 plugins: # 插件
+  - autolinks # 自动链接插件（pip install mkdocs-autolinks-plugin）
   - search: # 搜索插件（内置）
       separator: '[\s\u200b\-_,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])' # 分隔符，我也不懂，我从官方那里找来的
       lang: # 支持的语言
@@ -287,6 +288,7 @@ plugins: # 插件
       htmlmin_opts:
         remove_comments: true
       cache_safe: true
+
 
 watch: # serve 实时预览模式下检测更改的目录或文件
   - docs/

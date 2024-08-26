@@ -48,6 +48,35 @@
 
 文本风格不做过多要求，尽可能丰富你的文本格式就好。
 
+
+
+### 2.4 MkDocs 自动链接插件
+
+使用方式
+
+
+
+```
+[Git Flow](target文件.md)
+自动执行文档中存在的链接
+```
+
+https://121rh.com/web/mkdocs/installMkdocs/#4mkdocs-%E8%87%AA%E5%8A%A8%E9%93%BE%E6%8E%A5%E6%8F%92%E4%BB%B6
+
+
+
+### 2.5在mkdoc中正确显示图片
+
+1 在mkdoc中正确显示图片， typora中配置 将图片放入到images文件下
+
+
+
+![image-20240826134409446](images/Contributing/image-20240826134409446.png)
+
+
+
+
+
 ## 三、加入我们
 
 如果你想加入我们，请联系项目团队的维护人员，下面是联系方式：
