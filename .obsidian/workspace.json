@@ -146,8 +146,24 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "db1611642f35d972",
+  "active": "d0bc8482597c5202",
   "lastOpenFiles": [
+    "docs/aigc/draw/绘画提示词~.md",
+    "docs/aigc/prompt/群聊总结提示词~.md",
+    "docs/aigc/draw/绘画提示词.md",
+    "docs/aigc/draw/Untitled.md",
+    "docs/Guide~.md",
+    "docs/aigc/agent/langGPT~.md",
+    "docs/aigc/agent/langGPT.md",
+    "docs/aigc/agent/Untitled.md",
+    "docs/weekly/idea/口袋助手~.md",
+    "docs/aigc/index~.md",
+    "docs/aigc/draw/index~.md",
+    "docs/aigc/prompt/日常角色提示词~.md",
+    "docs/weekly/weekly/2024-8-19.md",
+    "docs/weekly/weekly/2024-8-26.md",
+    "docs/weekly/weekly/资源站点.md",
+    "docs/aigc/prompt/日常角色提示词.md",
     "docs/web/db/mysql~.md",
     "docs/web/index.md",
     "docs/web/java",
@@ -162,16 +178,6 @@
     "docs/java/Q&A/6-高频问题-java基础.md",
     "docs/java/Q&A/5-高频问题-设计模式.md",
     "docs/java/Q&A/4-高频问题-设计模式.md",
-    "docs/java/Q&A/4-高频问题-kafka.md",
-    "docs/java/Q&A/3-高频问题-redis.md",
-    "docs/java/Q&A/2-高频问题-数据库.md",
-    "docs/java/Q&A/1-高频问题-线程池~.md",
-    "docs/java/Q&A/1-高频问题-线程池.md",
-    "docs/java/Q&A/开放性问题~.md",
-    "docs/java/Q&A/开放性问题.md",
-    "未命名",
-    "docs/index.md",
-    "docs/About.md",
-    "README.md"
+    "未命名"
   ]
 }

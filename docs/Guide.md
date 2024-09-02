@@ -4,6 +4,10 @@ comments: true
 
 第一次访问本站的朋友们一定要来这里看看！这里是本站的 <big>食用</big> 指南！👍
 
+## pymdown官方教程
+
+https://facelessuser.github.io/pymdown-extensions/extensions/arithmatex/
+
 ## 一、基本使用方式
 
 基本的啊，人人都要掌握！😁
@@ -175,7 +179,7 @@ int main(){
     ```c
     --8<-- "sources/Algorithm/sort/C/straight_insertion_sort.c"
     ```
-
+    
     1. 相等时，被比较元素原来在前面的就不用右移了，保证稳定性
 
 === "🔴 C++ 20"
@@ -183,7 +187,7 @@ int main(){
     ```cpp
     --8<-- "sources/Algorithm/sort/C++/straight_insertion_sort.cpp"
     ```
-
+    
     1. 相等时，被比较元素原来在前面的就不用右移了，保证稳定性
 
 === "🔵 Python 3"
@@ -191,7 +195,7 @@ int main(){
     ```python
     --8<-- "sources/Algorithm/sort/Python/straight_insertion_sort.py"
     ```
-
+    
     1. 相等时，不确定位置的元素的位置也能确定了，一定在当前被比较元素的右边
 
 === "🟠 Java 21"
@@ -199,7 +203,7 @@ int main(){
     ```java
     --8<-- "sources/Algorithm/sort/Java/straight_insertion_sort.java"
     ```
-
+    
     1. 相等时，被比较元素原来在前面的就不用右移了，保证稳定性
 
 === "🟢 C# 12"
@@ -207,7 +211,7 @@ int main(){
     ```csharp
     --8<-- "sources/Algorithm/sort/C#/straight_insertion_sort.cs"
     ```
-
+    
     1. 相等时，被比较元素原来在前面的就不用右移了，保证稳定性
 
 === "🟡 TypeScript 5"
@@ -215,7 +219,7 @@ int main(){
     ```typescript
     --8<-- "sources/Algorithm/sort/TypeScript/straight_insertion_sort.ts"
     ```
-
+    
     1. 相等时，被比较元素原来在前面的就不用右移了，保证稳定性
 
 通过点击不同的标签可以切换代码块，常用于多语言演示。
