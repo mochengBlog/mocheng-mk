@@ -96,6 +96,16 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://mochengBlog.github.io/mocheng-mk/java/map%E8%BF%9E%E7%8E%AFcall/</loc>
+         <lastmod>2024-09-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://mochengBlog.github.io/mocheng-mk/java/%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8B/</loc>
+         <lastmod>2024-09-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://mochengBlog.github.io/mocheng-mk/java/Q%26A/1-%E9%AB%98%E9%A2%91%E9%97%AE%E9%A2%98-%E7%BA%BF%E7%A8%8B%E6%B1%A0/</loc>
          <lastmod>2024-09-05</lastmod>
          <changefreq>daily</changefreq>
@@ -136,12 +146,12 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mochengBlog.github.io/mocheng-mk/java/%E5%9C%BA%E6%99%AF%E7%9C%9F%E9%A2%98/</loc>
+         <loc>https://mochengBlog.github.io/mocheng-mk/java/thread/threadLocal/</loc>
          <lastmod>2024-09-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mochengBlog.github.io/mocheng-mk/java/%E7%BA%BF%E7%A8%8B%E6%B1%A0/%E7%BA%BF%E7%A8%8B%E6%B1%A0/</loc>
+         <loc>https://mochengBlog.github.io/mocheng-mk/java/%E5%9C%BA%E6%99%AF%E7%9C%9F%E9%A2%98/</loc>
          <lastmod>2024-09-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -177,6 +187,11 @@
     </url>
     <url>
          <loc>https://mochengBlog.github.io/mocheng-mk/web/db/%E5%90%91%E9%87%8F%E6%95%B0%E6%8D%AE%E5%BA%93/</loc>
+         <lastmod>2024-09-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://mochengBlog.github.io/mocheng-mk/web/mq/kafka/</loc>
          <lastmod>2024-09-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
