@@ -1,1 +1,15 @@
-{"version": "https://jsonfeed.org/version/1", "title": "My Documentation RSS Feed", "home_page_url": "https://mochengBlog.github.io/mocheng-mk/", "feed_url": "https://mochengBlog.github.io/mocheng-mk/feed_json_updated.json", "description": "Updates and news about my documentation.", "icon": null, "authors": [{"name": "mocheng"}], "language": "zh", "items": []}
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "mocheng",
+    "home_page_url": "https://mochengBlog.github.io/mocheng-mk/",
+    "feed_url": "https://mochengBlog.github.io/mocheng-mk/feed_json_updated.json",
+    "description": "Everything about the mocheng",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Feed-icon.svg/128px-Feed-icon.svg.png",
+    "authors": [
+        {
+            "name": "mocheng"
+        }
+    ],
+    "language": "zh",
+    "items": []
+}
